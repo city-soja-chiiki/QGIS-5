@@ -1,4 +1,4 @@
-## 概要　https://github.com/city-soja-chiiki/QGIS  
+## 全体概要　https://github.com/city-soja-chiiki/QGIS  
 # 5.QGISプラグイン等の開発・保守  
 　【概算】130万円/年（650万円/5年）  
 　**開発したプラグイン等はオープンソースによりGitHUB等に公開されます。**
