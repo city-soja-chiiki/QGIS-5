@@ -27,7 +27,8 @@
 ### 5-4.汎用調書作成機能[機能強化]  
 　【概算】20万円/年（100万円/5年）   
 　https://github.com/yamamoto-ryuzo/QGIS-exportExcel  
-　[オービタルネット受託済]　QDATE,QDATETIME対応  
+　[オービタルネット受託済]  
+ 　QDATE,QDATETIME対応  
 ### 5-5.属性検索プラグイン[機能強化]   
 　【概算】20万円/年（100万円/5年）   
 　https://github.com/yamamoto-ryuzo/GEO-search-plugin  
