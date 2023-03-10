@@ -32,6 +32,10 @@
 　https://github.com/yamamoto-ryuzo/QGIS-exportExcel  
 　[オービタルネット受託済]  
  　QDATE,QDATETIME対応  
+  [今後の予定]
+  　1.変数　＠・・・・　の対応
+　　2.フィルター設定
+　　　　　　属性テーブル　＞　詳細フィルター（式）　の対応
 ### 5-5.属性検索プラグイン[機能強化]
 　[【GEOソリューションズ】](https://geo-sol.co.jp/)  
 　【概算】20万円/年（100万円/5年）   
