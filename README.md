@@ -30,7 +30,7 @@
 　[【オービタルネット】](https://www.orbitalnet.jp/)  
 　【概算】20万円/年（100万円/5年）   
 　https://github.com/yamamoto-ryuzo/QGIS-exportExcel  
-　[オービタルネット受託済]  
+　[R4実施　オービタルネット]  
  　QDATE,QDATETIME対応  
 　[今後の予定]  
 　　1.変数　＠・・・・　の対応  
